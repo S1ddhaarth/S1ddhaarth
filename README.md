@@ -3,7 +3,7 @@ Check these repos out. Quick-Vantage is my fav :)
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=S1ddhaarth&show_icons=true&theme=radical" alt="stats" height="200"/></td>
+    <!-- <td><img src="https://github-readme-stats.vercel.app/api?username=S1ddhaarth&show_icons=true&theme=radical" alt="stats" height="200"/></td> -->
     <td><img src="https://github-readme-streak-stats-eight.vercel.app/?user=S1ddhaarth&theme=radical" alt="streak" height="200"/></td>
   </tr>
 </table>
